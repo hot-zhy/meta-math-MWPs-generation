@@ -1,4 +1,5 @@
 # using fine-tuned meta-math to solve and reason about math problems
+## Remember to synchronize changes made on the server and save them locally, then upload them to github!
 
 ## Run this model
 
