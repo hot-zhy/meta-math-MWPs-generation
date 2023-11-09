@@ -1,0 +1,5 @@
+{
+    "description": "Template used by MetaMath.",
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Response: Let's think step by step.",
+    "response_split": "### Response: Let's think step by step."    
+}
